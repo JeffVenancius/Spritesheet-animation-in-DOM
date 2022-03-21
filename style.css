@@ -1,0 +1,23 @@
+main {
+	display: flex;
+	flex-direction: column;
+}
+.card__image {
+	margin: auto;
+	background-color: rgb(231, 233, 235);
+	width:40%;
+}
+.div__sheet {
+	margin: auto;
+	overflow: hidden;
+	width: 170px;
+}
+
+img {
+	width: 850px;
+	image-rendering: pixelated;
+}
+
+h1,h2 {
+	text-align: center;
+}
